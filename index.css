@@ -1,0 +1,58 @@
+body
+{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    padding: 5%;
+    background-color: #A31ACB;
+    color:#FF78F0;
+}
+h1
+{
+    font-size: 4.5rem;
+    font-weight: bold;
+    letter-spacing:5px;
+}
+p
+{
+    font-size: 2rem;
+    font-weight: lighter;
+}
+span
+{
+    background-color:#FF78F0;
+}
+.btn
+{
+    background-color: #FF78F0;
+    font-size: 1.5rem;
+    border-radius:50px;
+}
+button i
+{
+    color:#FF78F0;
+}
+button{
+    margin-right: 2%;
+}
+.input-text
+{
+    border-color:#A31ACB;
+    font-size:1.5rem;
+    font-weight: bold;
+    color:#A31ACB;
+    border-radius: 20px;
+    background-color:#FF78F0;
+}
+
+.form-control{border-radius: 20px;
+background-color:#f6d2f1;
+border-color: #A31ACB;}
+.title-input
+{
+   width:50%;
+   margin-left: 23%;
+}
+#title
+{
+    text-align: center;
+}
